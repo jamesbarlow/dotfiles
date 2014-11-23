@@ -1,11 +1,6 @@
 " Let backspace work normally, i.e. allow deleting everything.
 set backspace=indent,eol,start
 
-" Automatic indentation, for C-like languages anyway.
-" Still not convinced I like this >.>
-set autoindent
-set cindent
-
 " Searches wrap at eof.
 set wrapscan
 
