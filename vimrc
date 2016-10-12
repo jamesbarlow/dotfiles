@@ -20,5 +20,9 @@ set showcmd
 set relativenumber
 set ruler
 
+" Natural split defaults.
+set splitbelow
+set splitright
+
 " Highlight syntax.
 syntax on
